@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <td>RF-01</td>
-      <td>El sistema debe permitir al usuario resolver ejercicios de programación mediante la escritura y ejecución de códigos.</td>
+      <td> sistema debe permitir al usuario resolver ejercicios de programación mediante la escritura y ejecución de códigos.</td>
     </tr>
     <tr>
       <td>RF-02</td>
