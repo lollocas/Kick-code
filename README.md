@@ -14,6 +14,5 @@
     - CasosUsos.md: Contiene los casos de uso del sistema.  
     -architectura.jpeg: Contiene la arquitectura del sistema.
     -diagrama.png: Contiene el diagrama de clases del sistema.
-    -Grupo3_SRS.pdf: Contiene lo que hemos avanzado hasta el momento lo subi como pdf porque no pude subirlo como archivo word y algunos cambios no se veran reflejados en el pdf.
-
+    -Grupo3_SRS.pdf: Contiene lo que hemos avanzado hasta el momento lo subi como pdf porque no pude subirlo como archivo word ya que se ban realizar mas cambios y algunos cambios que no se veran reflejados en el pdf.
   
